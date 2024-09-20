@@ -2,7 +2,8 @@ import React from 'react';
 
 const Footer = () => {
     const footerStyle = {
-        backgroundColor: "#f1f1f1",
+        backgroundColor: "#0a0a23",  // Cambiado a azul oscuro
+        color: "white",              // Cambia el color del texto a blanco para mejor visibilidad
         textAlign: "center",
         padding: "10px",
         position: "fixed",
